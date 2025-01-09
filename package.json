@@ -39,7 +39,7 @@
     "puppeteer": "^22.12.1",
     "rimraf": "^3.0.2",
     "tippy.js": "^6.3.7",
-    "uikit": "3.6.9"
+    "uikit": "3.21.16"
   },
   "devDependencies": {
     "@babel/core": "^7.21.3",
