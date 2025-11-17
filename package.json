@@ -32,11 +32,11 @@
     "darkmode-js": "^1.5.7",
     "file-saver": "^2.0.5",
     "idb": "^7.1.1",
-    "mocha": "^10.1.0",
+    "mocha": "^10.6.0",
     "mustache": "^4.2.0",
     "path": "^0.12.7",
     "psl": "^1.8.0",
-    "puppeteer": "^22.12.1",
+    "puppeteer": "^24.15.0",
     "rimraf": "^3.0.2",
     "tippy.js": "^6.3.7",
     "uikit": "3.6.9"
